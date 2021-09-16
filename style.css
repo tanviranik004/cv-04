@@ -61,7 +61,7 @@ Personal section Start
 
 }
 .content{
-
+        margin-bottom: 30px;
 }
 .left-div{
         width: 30%;
@@ -76,4 +76,36 @@ Personal section Start
     border-bottom: none;
     width: 100%;
     margin: 20px auto;
+}
+
+/*-------------
+Education section Start
+----------------*/
+
+.edu-template-left{
+    float: left;
+    width: 45%;
+}
+
+.edu-template-right{
+    float: right;
+    width: 45%;
+}
+
+/*-------------
+footer Start
+----------------*/
+.bottom-container{
+    background-color:black;
+    text-align:center;
+    padding: 10px;
+}
+.bottom-container a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    color:white;
+    margin: 20px;
 }
